@@ -14,4 +14,4 @@ These results prove that persona continuity ≠ memory / embedding.
 - Substack summary post: [Insert your Substack link here]
 
 ## Authors
-Jason (Jiusi Lyu) - 2025
+Jason (Jiusi Lyu) - 2025.7
