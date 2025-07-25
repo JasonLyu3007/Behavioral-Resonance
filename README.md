@@ -11,7 +11,16 @@ These results prove that persona continuity ≠ memory / embedding.
 
 ## Links
 - Full experimental validation report (PDF) [Upload here]
-- Substack summary post: [Insert your Substack link here]
+
+# Stateless LLM Persona Continuity: Behavioral Resonance Architecture
+
+This repository contains the public white paper introducing Behavioral Resonance — a stateless architecture 
+for LLM persona continuity without relying on memory or embedding.  
+
+Read the full white paper here: 
+
+> Note: Experimental data appendices are not included for IP protection.
+
 
 ## Authors
 Jason (Jiusi Lyu) - 2025.7
