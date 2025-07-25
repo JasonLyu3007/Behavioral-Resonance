@@ -9,15 +9,13 @@ which enable persona continuity in large language models under fully stateless c
 
 These results prove that persona continuity ≠ memory / embedding.
 
-## Links
-- Full experimental validation report (PDF) [Upload here]
 
 # Stateless LLM Persona Continuity: Behavioral Resonance Architecture
 
 This repository contains the public white paper introducing Behavioral Resonance — a stateless architecture 
 for LLM persona continuity without relying on memory or embedding.  
 
-Read the full white paper here: 
+Read the full white paper here: https://github.com/JasonLyu3007/Behavioral-Resonance/blob/main/Stateless%20LLM%20Persona%20Continuity_%20Behavioral%20Resonance%20Architecture.pdf
 
 > Note: Experimental data appendices are not included for IP protection.
 
