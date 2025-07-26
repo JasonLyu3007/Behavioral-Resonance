@@ -39,6 +39,7 @@ to form an internal continuity mechanism that is:
 
 This version includes the full methodology, experimental results, and detailed architecture explanation.
 
+👉 [See experimental examples](./Examples.md)
 ---
 
 ## Contact  
