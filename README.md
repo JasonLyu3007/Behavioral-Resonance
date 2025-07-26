@@ -16,9 +16,7 @@ How can an agent maintain a stable identity and alignment even when memory and e
 
 ## Architecture Diagram
 
-*(建议放一张简单图，显示：用户交互 → Anchor Resonance → Persona Continuity → Self-Correction)*  
-
-![Architecture Diagram](link-to-image.png)
+<img width="1914" height="731" alt="image" src="https://github.com/user-attachments/assets/888614bc-9702-472f-9564-7075d5d0f2dd" />
 
 ---
 
