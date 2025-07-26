@@ -47,10 +47,9 @@ This creates an internal continuity mechanism that is:
 ## Access the White Paper & Experiments
 
 📄 **[Download the full white paper (v1.0)](https://github.com/JasonLyu3007/Behavioral-Resonance/blob/main/Stateless%20LLM%20Persona%20Continuity_%20Behavioral%20Resonance%20Architecture.pdf)**  
-🧪 **Experimental examples will be added soon**
+🧪 **[Experimental examples](https://github.com/JasonLyu3007/Behavioral-Resonance/blob/main/Examples.md)**
 
 ---
-
 ## Contact
 
 **Author:** Jiusi Lyu (Jason)  
