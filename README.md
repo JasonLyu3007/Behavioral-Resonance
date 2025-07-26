@@ -16,7 +16,8 @@ How can an agent maintain a stable identity and alignment even when memory and e
 
 ## Architecture Diagram
 
-<img width="1914" height="731" alt="image" src="https://github.com/user-attachments/assets/888614bc-9702-472f-9564-7075d5d0f2dd" />
+<img width="1913" height="752" alt="image" src="https://github.com/user-attachments/assets/1e4d2221-4e83-4b93-85cc-e4b225704dd3" />
+
 
 ---
 
